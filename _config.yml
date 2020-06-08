@@ -1,0 +1,15 @@
+theme: jekyll-theme-minimal
+title: Elizabeth Koning
+description: UIUC PhD Student
+logo: /assets/images/headshot.resized.png
+navigation:
+  - title: About Me
+    url: /
+  - title: Projects
+    url: projects
+  - title: Publications
+    url: publications
+  - title: GitHub
+    url: https://github.com/kodingkoning/
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/elizabeth-koning
